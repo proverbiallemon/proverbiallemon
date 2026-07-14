@@ -6,9 +6,9 @@ Systems administrator & full-stack developer. By day I'm the sole IT operation f
 
 ## Things I've made
 
+- 🧪 **[SpectraSwift](https://github.com/proverbiallemon/SpectraSwift)**: native macOS viewer for JCAMP-DX spectroscopy files (IR, MS, UV-Vis), with a UI-free parsing engine tested against NIST data
 - 🎮 **[pyrite64-mac](https://github.com/proverbiallemon/pyrite64-mac)**: a C++ Nintendo 64 game-engine toolchain, ported to Apple Silicon
 - ⛵ **[Sailswift](https://github.com/proverbiallemon/Sailswift)**: native Swift macOS mod manager
-- 🎧 **[CrusherControl](https://github.com/proverbiallemon/CrusherControl)**: Swift menu-bar app that talks to headphone hardware over Bluetooth LE
 - 📬 **[emdash-inbox](https://github.com/proverbiallemon/emdash-inbox)**: an email client that lives entirely on Cloudflare Workers
 
 ## How I work
