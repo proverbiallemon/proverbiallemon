@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Lemon 🍋
 
-<!--
-**proverbiallemon/proverbiallemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*(Robert Martinez, New Albany, IN)*
 
-Here are some ideas to get you started:
+Systems administrator & full-stack developer. By day I'm the sole IT operation for a federal government contractor: infrastructure, security, and the website, all of it. The rest of the time I build software because I can't not.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Things I've made
+
+- 🎮 **[pyrite64-mac](https://github.com/proverbiallemon/pyrite64-mac)**: a C++ Nintendo 64 game-engine toolchain, ported to Apple Silicon
+- ⛵ **[Sailswift](https://github.com/proverbiallemon/Sailswift)**: native Swift macOS mod manager
+- 🎧 **[CrusherControl](https://github.com/proverbiallemon/CrusherControl)**: Swift menu-bar app that talks to headphone hardware over Bluetooth LE
+- 📬 **[emdash-inbox](https://github.com/proverbiallemon/emdash-inbox)**: an email client that lives entirely on Cloudflare Workers
+
+## How I work
+
+**Stack:** TypeScript / React / Cloudflare Workers · Swift · C++ · PowerShell & Bash when the servers need talking to
+
+Self-taught, AI-accelerated, allergic to doing things the boring way. I like software with character: native apps, edge computing, retro hardware, and tools that solve one specific problem extremely well.
+
+## Say hi
+
+📫 hi@pbweb.me · Open to full-time and contract work
